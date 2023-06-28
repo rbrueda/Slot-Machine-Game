@@ -14,7 +14,6 @@ from play_sounds import play_file
 from pathlib import Path
 import time
 from time import sleep
-import os
 #allows differnet parts of program to run concurrently
 import threading
 from threading import Thread
